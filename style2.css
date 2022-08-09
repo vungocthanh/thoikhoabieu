@@ -1,0 +1,24 @@
+td {
+   text-align:center;
+   padding:8px;
+   font-weight:bold;
+   
+}
+table{
+   border-collapse:collapse;
+   border: 1px solid black;
+}
+.day{
+   background-color:yellow;
+}
+.tuan{
+   background-color: rgb(211, 100, 3);
+}
+h1{
+   margin-left: 170px;
+   color:blue;
+}
+* {
+  box-sizing: border-box;
+}
+

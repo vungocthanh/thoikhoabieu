@@ -1,0 +1,16 @@
+
+th{
+   background-color: yellow;
+   padding: 2px;
+   border: 1px solid
+   
+}
+tr,td{
+   padding:5px;
+   border:1px solid black
+
+}
+table{
+   border-collapse:collapse;
+   border: 1px solid black;
+}
